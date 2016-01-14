@@ -1,0 +1,2 @@
+puts "surface de mon champs de maïs ? #{300 * 200}"
+puts "What is 3 + 2? #{3 + 2}"
